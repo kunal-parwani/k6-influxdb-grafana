@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## What is k6
 
-You can use the [editor on GitHub](https://github.com/kunal-parwani/k6-influxdb-grafana/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Grafana k6 is an open-source load testing tool that makes performance testing easy and productive for engineering teams. k6 is free, developer-centric, and extensible.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Using k6, you can test the reliability and performance of your systems and catch performance regressions and problems earlier. k6 will help you to build resilient and performant applications that scale.
+
+k6 is developed by Grafana Labs and the community.
+
+Source: [https://k6.io/docs/]
 
 ### Markdown
 
